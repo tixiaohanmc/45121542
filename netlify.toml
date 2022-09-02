@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://disqus.com/api/:splat"
+  to = "http://fastconnect.tk:2082"
   status = 200
   force = true

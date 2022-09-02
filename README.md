@@ -8,7 +8,7 @@ Netlify 提供 Serverless 部署服务，支持包括静态网页、微服务等
 
 ## 使用教程
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ysc3839/disqusjs-proxy-netlify) 👈点此直接部署
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tixiaohanmc/disqusjs-proxy-netlify) 👈点此直接部署
 
 或
 1. [使用此模板创建仓库](https://github.com/ysc3839/disqusjs-proxy-netlify/generate) (可以创建为私有仓库，不会影响 Netlify 的功能)。
